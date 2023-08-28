@@ -4,7 +4,7 @@ Welcome to the Oasis Infobyte Data Science Internship Projects (OIBSIP) reposito
 
 ## Task 1: Iris Flower Classification
 
-In this task, we tackled the challenge of classifying iris flowers into three species: setosa, versicolor, and virginica. The Scikit-learn library provides a dataset for iris flower classification, which has been used to train a machine learning model capable of accurately classifying iris species based on their measurements.
+In this task, we tackled the challenge of classifying iris flowers into three species: setosa, versicolor, and virginica.
 
 ## Task 2: Unemployment Rate Analysis
 
@@ -13,7 +13,7 @@ Task 2 involved the analysis of the unemployment rate, particularly focusing on 
 
 ## Task 3: Car Price Prediction
 
-In Task 3, we delved into the realm of car price prediction. Considering factors such as brand reputation, car features, horsepower, and mileage, we built a machine learning model capable of predicting the price of a car. This project showcases the application of machine learning in the automobile industry.
+In Task 3, we delved into car price prediction. Considering factors such as brand reputation, car features, horsepower, and mileage,etc we built a machine learning model capable of predicting the price of a car. This project showcases the application of machine learning in the automobile industry.
 
 
 **Happy coding!**
