@@ -1,4 +1,4 @@
-<b><font size=30>Oasis Infobyte Data Science Internship Projects</font></b><br>
+<b><font size='30'>Oasis Infobyte Data Science Internship Projects</font></b><br>
 Welcome to the Oasis Infobyte Data Science Internship Projects (OIBSIP) repository! This repository contains the code and resources for the three exciting data science tasks completed during the internship. Each task focuses on different aspects of data science and machine learning. Feel free to explore, learn, and contribute to the projects.
 
 <b>Task 1: Iris Flower Classification</b>
